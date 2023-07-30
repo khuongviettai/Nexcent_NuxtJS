@@ -36,3 +36,16 @@ code written on NuxtJS 2 --version 2.15.8
 #### mobile
 
 Use Capacitor so the app can build a mobile app.
+
+
+## demo
+
+#### demo web
+<img src="./assets/hithub2.png" width="400">
+
+#### demo ios
+<img src="./assets/github1.png" width="400">
+
+
+#### demo android 
+<img src="./assets/github3.png" width="400">
