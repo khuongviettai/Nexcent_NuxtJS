@@ -33,6 +33,9 @@ https://www.figma.com/file/ilatycC6BCsqfd77d0bV0A/Responsive-Landing-Page-Design
 
 code written on NuxtJS 2 --version 2.15.8
 
+#### Code languages
+Vue
+
 #### mobile
 
 Use Capacitor so the app can build a mobile app.
